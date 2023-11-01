@@ -1,6 +1,4 @@
-const fs=require('fs')
-
-const ruta="./archivos/productManager.json"
+const fs=require("fs")
 class ProductManager{
 
     constructor(ruta){
@@ -84,13 +82,13 @@ class ProductManager{
         console.log("eliminado con exito0")
     }
 }
-let productManager=new ProductManager(ruta)
+// let productManager=new ProductManager(ruta)
 
 // mostramos todos los productos
 // console.log(productManager.getProduct())
 
 //agregar producto
-// productManager.addProduct('Producto 4', 'Descripción del producto 4', 10, 'thumbnail1.jpg', 100);
+// productManager.addProduct('Producto 5', 'Descripción del producto 4', 10, 'thumbnail1.jpg', 100);
 
 //Buscar por id
 // productManager.getProductById(3)
@@ -100,3 +98,4 @@ let productManager=new ProductManager(ruta)
 
 //borrar producto
 // productManager.deletProduct(3)
+module.exports = ProductManager;

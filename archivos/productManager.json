@@ -30,5 +30,109 @@
 		"price": 10,
 		"thumbnail": "thumbnail1.jpg",
 		"stock": 100
+	},
+	{
+		"code": 5,
+		"title": "Producto 5",
+		"description": "Descripción del producto 4",
+		"price": 10,
+		"thumbnail": "thumbnail1.jpg",
+		"stock": 100
+	},
+	{
+		"code": 6,
+		"title": "Producto 5",
+		"description": "Descripción del producto 4",
+		"price": 10,
+		"thumbnail": "thumbnail1.jpg",
+		"stock": 100
+	},
+	{
+		"code": 7,
+		"title": "Producto 5",
+		"description": "Descripción del producto 4",
+		"price": 10,
+		"thumbnail": "thumbnail1.jpg",
+		"stock": 100
+	},
+	{
+		"code": 8,
+		"title": "Producto 5",
+		"description": "Descripción del producto 4",
+		"price": 10,
+		"thumbnail": "thumbnail1.jpg",
+		"stock": 100
+	},
+	{
+		"code": 9,
+		"title": "Producto 5",
+		"description": "Descripción del producto 4",
+		"price": 10,
+		"thumbnail": "thumbnail1.jpg",
+		"stock": 100
+	},
+	{
+		"code": 10,
+		"title": "Producto 5",
+		"description": "Descripción del producto 4",
+		"price": 10,
+		"thumbnail": "thumbnail1.jpg",
+		"stock": 100
+	},
+	{
+		"code": 11,
+		"title": "Producto 5",
+		"description": "Descripción del producto 4",
+		"price": 10,
+		"thumbnail": "thumbnail1.jpg",
+		"stock": 100
+	},
+	{
+		"code": 12,
+		"title": "Producto 5",
+		"description": "Descripción del producto 4",
+		"price": 10,
+		"thumbnail": "thumbnail1.jpg",
+		"stock": 100
+	},
+	{
+		"code": 13,
+		"title": "Producto 5",
+		"description": "Descripción del producto 4",
+		"price": 10,
+		"thumbnail": "thumbnail1.jpg",
+		"stock": 100
+	},
+	{
+		"code": 14,
+		"title": "Producto 5",
+		"description": "Descripción del producto 4",
+		"price": 10,
+		"thumbnail": "thumbnail1.jpg",
+		"stock": 100
+	},
+	{
+		"code": 15,
+		"title": "Producto 5",
+		"description": "Descripción del producto 4",
+		"price": 10,
+		"thumbnail": "thumbnail1.jpg",
+		"stock": 100
+	},
+	{
+		"code": 16,
+		"title": "Producto 5",
+		"description": "Descripción del producto 4",
+		"price": 10,
+		"thumbnail": "thumbnail1.jpg",
+		"stock": 100
+	},
+	{
+		"code": 17,
+		"title": "Producto 5",
+		"description": "Descripción del producto 4",
+		"price": 10,
+		"thumbnail": "thumbnail1.jpg",
+		"stock": 100
 	}
 ]
